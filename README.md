@@ -1,3 +1,5 @@
+# This project was created for educational purposes.
+
 # toplist
 
 `toplist` is a high-performance, concurrent-safe skip list implementation in Go. It is designed to handle large volumes of sorted data with support for both synchronous and asynchronous operations.
